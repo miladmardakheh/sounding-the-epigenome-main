@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.20.7",
+    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.3.3",
     "bootswatch": "^5.3.3",
     "fs": "^0.0.1-security",
