@@ -1,8 +1,8 @@
 import { Meteor } from 'meteor/meteor';
-import { WebApp } from 'meteor/webapp';
-import { EJSON } from 'meteor/ejson';
-import fs from 'fs';
-import path from 'path';
+// import { WebApp } from 'meteor/webapp';
+// import { EJSON } from 'meteor/ejson';
+// import fs from 'fs';
+// import path from 'path';
 
 Meteor.startup(() => {
 // Correctly identify the root directory of the Meteor project
