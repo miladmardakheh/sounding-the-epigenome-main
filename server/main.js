@@ -1,10 +1,10 @@
-import { Meteor } from 'meteor/meteor';
+// import { Meteor } from 'meteor/meteor';
 // import { WebApp } from 'meteor/webapp';
 // import { EJSON } from 'meteor/ejson';
 // import fs from 'fs';
 // import path from 'path';
 
-Meteor.startup(() => {
+// Meteor.startup(() => {
 // Correctly identify the root directory of the Meteor project
 // const findMeteorProjectRoot = () => {
 //   let currentDir = process.cwd();
@@ -97,4 +97,4 @@ Meteor.startup(() => {
 //       res.end('Mapping functions have been saved successfully!');
 //     });
 //   });
-});
+// });
